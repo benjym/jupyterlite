@@ -14,6 +14,9 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
+      - name: Install ubuntu packages
+        run: |
+          sudo apt install cython proj-bin libproj-dev libgeos++-dev libgeos-3.8.0 libgeos-c1v5 libgeos-dev libgeos-doc
       - name: Setup Python
         uses: actions/setup-python@v2
         with:
