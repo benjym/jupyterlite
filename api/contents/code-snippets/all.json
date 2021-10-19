@@ -1,0 +1,25 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2021-10-19T06:32:36.668903Z",
+      "format": null,
+      "last_modified": "2021-10-19T06:18:17.986580Z",
+      "mimetype": null,
+      "name": "Looping.ipynb",
+      "path": "code-snippets/Looping.ipynb",
+      "size": 1540,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2021-10-19T06:32:36.668903Z",
+  "format": "json",
+  "last_modified": "2021-10-19T06:32:36.668903Z",
+  "mimetype": null,
+  "name": "code-snippets",
+  "path": "code-snippets",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
